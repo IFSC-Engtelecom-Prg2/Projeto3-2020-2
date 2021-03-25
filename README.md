@@ -6,5 +6,5 @@ A realização deste projeto lhes trará a oportunidade de aplicar seus conhecim
 
 O pontapé inicial é a escrita de uma [primeira versão do simulador](https://moodle.ifsc.edu.br/mod/assign/view.php?id=349986). Ela é mais simples, porém praticamente tudo que é relevante no simulador já estará presente.
 
-Usem aqui o github para manter seu trabalho. sempre que atualizarem seu código-fonte (mesmo que de forma incompleta), publiquem-no aqui. Assim eu poderei acompanhar de forma mais próxima seu progresso, o que ajudará nossa interação. Dúvidas podem ser publicadas como um _issue_ (ver [aba Issues](https://github.com/IFSC-Engtelecom-Prg2/Projeto3-2020-2/issues)).
+Usem aqui o github para manter seu trabalho. sempre que atualizarem seu código-fonte (mesmo que de forma incompleta), publiquem-no aqui. Assim eu poderei acompanhar de forma mais próxima seu progresso, o que ajudará nossa interação. Dúvidas podem ser publicadas como um _issue_ (ver [aba Issues](../../../issues)).
 
